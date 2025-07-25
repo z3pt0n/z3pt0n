@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Harsh!;Java+Spring+Boot+MongoDB+%7C+React+Dev;Built+Real+Time+Expense+Manager+%F0%9F%92%B8;Cloud-Native+Learner+%7C+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Harsha Vardhan!;Java+Spring+Boot+MongoDB+%7C+React+Dev;Built+Real+Time+Expense+Manager+%F0%9F%92%B8;Cloud-Native+Learner+%7C+Hackathon+Winner" alt="Typing SVG" />
 </p>
 
 ---
